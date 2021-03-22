@@ -1,3 +1,0 @@
-# The Pigeonhole Problem
-
-TBD
