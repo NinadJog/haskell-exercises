@@ -9,7 +9,7 @@ Solutions in other languages will appear in their own repos but the links to the
 
 | # | Exercise | Haskell | Scala |
 |:---:|---|---|---|
-| 1 | [Pigeonhole](docs/pigeonhole.md) | [Pigeonhole.hs](pigeonhole.hs) | TBD |
+| 1 | [Pigeonhole](docs/pigeonhole.md) | [Code](pigeonhole.hs) | [Code](https://github.com/NinadJog/scala-exercises/blob/main/Pigeonhole.scala) |
 
 ### Usage
 
