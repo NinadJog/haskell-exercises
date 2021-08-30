@@ -1,4 +1,4 @@
-# haskell-exercises
+# Pigeonhole Problem
 This repo contains Haskell solutions to several short problems.
 
 I have gathered them in a single repo because none of the problems is big enough to warrant its own repo.
